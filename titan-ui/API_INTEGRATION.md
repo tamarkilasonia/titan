@@ -13,6 +13,7 @@ This app uses the **latest Next.js 16 best practices** for data fetching:
 
 ### 2. **Type Safety** (`lib/types.ts`)
 
+
 - TypeScript interfaces matching your C# backend models
 - Prevents runtime errors with type checking
 
